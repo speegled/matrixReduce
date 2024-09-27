@@ -1,0 +1,27 @@
+{
+    "id": "F6F68BA2",
+    "path": "~/local_R_projects/matrixReduce/R/utils.R",
+    "project_path": "R/utils.R",
+    "type": "r_source",
+    "hash": "2749372051",
+    "contents": "",
+    "dirty": false,
+    "created": 1701371109812.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,21",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701371698,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701371698614,
+    "read_only": false,
+    "read_only_alternatives": []
+}
